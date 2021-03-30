@@ -1,2 +1,2 @@
-# 396-test-react
+# test-for-React
 Created with CodeSandbox
